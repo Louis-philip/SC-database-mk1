@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/208728772/998c09ca-cfa6-4c01-ac75-3dfad7f4862b" alt="milvus banner">
+<img src="" alt="milvus banner">
 
 <div class="column" align="middle">
   <a href="https://milvusio.slack.com/join/shared_invite/zt-1slimkif6-8uWK0XPL8adve6vSD4jSwg"><img src="https://img.shields.io/badge/Join-Slack-orange?logo=slack&amp;logoColor=white&style=flat-square"></a>
